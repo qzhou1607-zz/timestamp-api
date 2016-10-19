@@ -1,0 +1,12 @@
+.container {
+    text-align:center;
+    margin:50px;
+}
+
+li {
+    list-style-type: none;
+}
+
+.panel {
+    margin-top:20px;
+}
